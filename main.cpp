@@ -11,7 +11,7 @@ int main() {
   cout << "1. Deposit" << endl;
   cout << "2. Withdraw" << endl;
   cout << "3. Check Balance" << endl;
-  cout << "4. Quit" << endl
+  cout << "4. Quit" << endl;
  
   
   
